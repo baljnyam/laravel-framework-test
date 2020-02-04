@@ -3,12 +3,12 @@
 <strong>Installation for windows vscode</strong>
 
 <ol>
-  <li>download&install <a href="https://getcomposer.org/Composer-Setup.exe">composer</a> (like file manager. but not global, only for laravel folder)</li>
+  <li>download&install <a href="https://getcomposer.org/Composer-Setup.exe">composer</a> a tool for dependency management in PHP</li>
   <li>open cmd and type: composer global require laravel/installer</li>
   <li>cmd: laravel new blog</li>
   <li>open folder in vscode and location will be in C:/users/%USERPROFILE%/blog</li>
   <li>install some extensions with laravel</li>
-  <li>ready to serve local server type it in terminal: php artisan serve</li>
+  <li>(like file manager. but not global, only for laravel folder): php artisan serve</li>
 </ol>
 <br>
 
