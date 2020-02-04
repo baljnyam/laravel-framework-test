@@ -10,6 +10,9 @@
   <li>install some extensions with laravel</li>
   <li>ready to serve local server type it in terminal: php artisan serve</li>
 </ul>
+<br>
+
+<h3><strong>Laravel full test</strong></h3>
 
 <ul>
   <li>Routing &#10004;</li>
