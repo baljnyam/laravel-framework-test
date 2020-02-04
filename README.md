@@ -1,5 +1,16 @@
 <h1><strong>Laravel</strong></h1>
 
+<strong>Installation for windows vscode</strong>
+
+<ul>
+  <li>download&install <a src="https://getcomposer.org/Composer-Setup.exe">composer (like file manager. but not global, only for laravel folder)</a></li>
+  <li>open cmd and type: composer global require laravel/installer</li>
+  <li>cmd: laravel new blog</li>
+  <li>open folder in vscode and location will be in C:/users/%USERPROFILE%/blog</li>
+  <li>install some extensions with laravel</li>
+  <li>ready to serve local server type it in terminal: php artisan serve</li>
+</ul>
+
 <ul>
   <li>Routing &#10004;</li>
   <li>Middleware</li>
