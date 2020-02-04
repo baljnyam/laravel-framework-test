@@ -15,16 +15,14 @@
 <h3><strong>Laravel full test</strong></h3>
 
 <ul>
-  <li>Routing &#10004;</li>
-  <li>Middleware</li>
-  <li>CSRF Protection</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
+  <li>Basic all aspects &#10004;</li>
+  <li>Front-end</li>
+  <li>Security</li>
+  <li>Advanced use</li>
+  <li>Database</li>
+  <li>Eloquent ORM</li>
+  <li>Testing</li>
+  <li>Packages</li>
 </ul>
 
 ## About Laravel
