@@ -3,7 +3,7 @@
 <strong>Installation for windows vscode</strong>
 
 <ol>
-  <li>download&install <a href="https://getcomposer.org/Composer-Setup.exe">composer (like file manager. but not global, only for laravel folder)</a></li>
+  <li>download&install <a href="https://getcomposer.org/Composer-Setup.exe">composer</a> (like file manager. but not global, only for laravel folder)</li>
   <li>open cmd and type: composer global require laravel/installer</li>
   <li>cmd: laravel new blog</li>
   <li>open folder in vscode and location will be in C:/users/%USERPROFILE%/blog</li>
